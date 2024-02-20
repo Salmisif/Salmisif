@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
-<h1 align="center">Hi <img width="50" height="40" src="https://camo.githubusercontent.com/bc558f5b365e3b47c6075ff61cac878e6e5d4ed7428acf297be59d8c0b7b1b72/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3939383534343538363435343631343031362f313031393839383038393630353138353535362f48616e64576176652e676966">, I'm Salmi Sifeddine</h1>
+<h1 align="center">Hi, I'm Salmi Sifeddine</h1>
 <h3 align="center">AM PhD Student</h3>
 <img align="right" alt="coding" width="400" src="https://cameronmcefee.com/img/work/the-octocat/codercat.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmisif&label=Profile%20views&color=0e75b6&style=flat" alt="salmisif" /> </p>
