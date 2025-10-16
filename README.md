@@ -1,6 +1,6 @@
 ![image](https://github.com/Salmisif/Salmisif/assets/109572847/4b4e4aee-3c44-4d00-a356-3d942d0cd539)
 <h1 align="center">Hi, I'm Salmi Sifeddine</h1>
-<h3 align="center">AM Master Student</h3>
+<h3 align="center">AM Phd Student</h3>
 <img align="right" alt="coding" width="400" src="https://cameronmcefee.com/img/work/the-octocat/codercat.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmisif&label=Profile%20views&color=0e75b6&style=flat" alt="salmisif" /> </p>
 
